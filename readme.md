@@ -1,0 +1,1 @@
+Currently, this project only serves as a creation form for quotation PDFs. As more features are added, it will eventually turn into a very basic ERP.
